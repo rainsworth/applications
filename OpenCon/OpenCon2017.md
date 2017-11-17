@@ -2,7 +2,7 @@
 
 I include below my responses to the Interest in OpenCon section of the application I submited to attend OpenCon 2017 (the other sections of the application related to personal information which I do not include here), for which I was **waitlisted**. I'm pretty happy with this considering there were thousands of applicants for only a couple hundred places! You can read the response from the Organising Committee to my application at the bottom.
 
-The University of Manchester Library however, held a [competition for a sponsored place at OpenCon](https://blog.research-plus.library.manchester.ac.uk/2017/09/08/sponsored-place-at-opencon-2017/). I slightly remixed these answers for that application, which you can find [here](OpenCon2017_UoMLibrary.md) which was **successful**! :tada: 
+The University of Manchester Library however, held a [competition for a sponsored place at OpenCon](https://blog.research-plus.library.manchester.ac.uk/2017/09/08/sponsored-place-at-opencon-2017/). I slightly remixed these answers for that application, which you can find [here](OpenCon2017_UoMLibrary.md) which was **[successful](https://blog.research-plus.library.manchester.ac.uk/2017/09/28/open-data-champion-secures-our-sponsored-opencon17-place/)**! :tada: 
 
 
 ## **Interest in OpenCon**

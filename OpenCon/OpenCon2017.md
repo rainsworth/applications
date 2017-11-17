@@ -1,6 +1,8 @@
-# OpenCon 2017 Application
+# My OpenCon 2017 Application
 
-I include below my responses to the Interest in OpenCon section of the application I submited to attend OpenCon 2017, for which I got **waitlisted**. I'm pretty happy with this considering there were thousands of applicants for only a couple hundred places! The University of Manchester Library however, held a competition for a sponsored place at OpenCon. I therefore slightly remixed these answers for that application, which you can find [here](OpenCon2017_UoMLibrary.md) which was **successful**! :tada: The other sections of the application related to personal information which I do not include here.
+I include below my responses to the Interest in OpenCon section of the application I submited to attend OpenCon 2017 (the other sections of the application related to personal information which I do not include here), for which I was **waitlisted**. I'm pretty happy with this considering there were thousands of applicants for only a couple hundred places! You can read the response from the Organising Committee to my application at the bottom.
+
+The University of Manchester Library however, held a [competition for a sponsored place at OpenCon](https://blog.research-plus.library.manchester.ac.uk/2017/09/08/sponsored-place-at-opencon-2017/). I slightly remixed these answers for that application, which you can find [here](OpenCon2017_UoMLibrary.md) which was **successful**! :tada: 
 
 
 ## **Interest in OpenCon**
@@ -40,3 +42,24 @@ The JBCA itself is the perfect springboard to advance Openness in astronomy as i
 My ideas to advance Openness include (1) infusing open science into the already established forums at JBCA listed above; (2) collaborating with the cross-disciplinary Data Science Institute at the University to bring networking meet-ups such as XX+Data, Databeers and Astronomy on Tap to Manchester; (3) provide resources and training to senior researchers so they are best equipped to encourage their students and postdocs to work openly - in order to successfully mentor the next generation of open science practitioners we also need to target those who advise them; and (4) establish modules for graduate students with formal training on open research practices (e.g. version control, open access/source/data, reproducibility and automation). I intend to document everything, every step of the way in a blog and on GitHub so that Open Science Champions in other institutions can adapt materials and process to their needs and use.
 
 I would highly benefit from the knowledge and training gained through OpenCon and would apply them to my Open Science agenda JBCA. (1390)
+
+
+
+# Response from the OpenCon 2017 Organising Committee
+
+
+Dear Rachael,
+
+Thank you for applying to attend OpenCon 2017. This year, we received a record-setting number of applications from over 175 countries, and yours was among the strongest. Our reviewers felt that you demonstrated a commitment to Open causes, meaningful engagement in existing initiatives, and most of all—a potential to catalyze future progress on Open Access, Open Data, and Open Education in your community and beyond. However, the size and quality of the application pool required our Organizing Committee to make some extraordinarily difficult decisions, and we are not able to confirm a scholarship or place at the conference for you at this time.
+
+You have been added to the OpenCon 2017 waitlist. If additional spaces at the meeting become available, we will notify you as soon as possible. We will notify all individuals of their final status by October 11. If you requested a scholarship, one factor that can affect our ability to invite you from the waitlist is the amount of scholarship funding you requested. If your need for a scholarship has changed, please let us know.
+
+Please fill out the following form by September 22nd to confirm your spot on the waitlist.
+
+We also want to remind you that you can participate remotely in OpenCon with OpenCon 2017 Live. Join us online from wherever you are to learn about Open issues, and build your network and take action. You’ll be able to watch sessions in real time with our live-stream, discuss ideas and projects with other participants and participate in OpenCon’s do-a-thon. Remote participants are eligible to receive official certificates once feedback on participation is provided. To RSVP and find more information, head here.
+
+We deeply appreciate your patience and interest in OpenCon.  As we’ve said before, OpenCon is a community, and we’re glad you’re a part of it.
+
+Warm regards,
+
+The OpenCon 2017 Organizing Committee

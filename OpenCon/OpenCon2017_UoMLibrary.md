@@ -1,6 +1,8 @@
 # OpenCon 2017 University of Manchester Library Sponsored Place Application
 
-I include below my application for the [University of Manchester Library's Sponsored Place at OpenCon 2017](https://blog.research-plus.library.manchester.ac.uk/2017/09/08/sponsored-place-at-opencon-2017/) which was **successful**! 🎉 There were thousands of applicants for only a couple hundred places at OpenCon 2017, and my main application (which you can read [here](OpenCon2017.md)) was **waitlisted**. The University of Manchester Library however, held a competition for a sponsored place at OpenCon. I therefore slightly remixed the answers from the main application, which you can read below.
+I include below my application for the [University of Manchester Library's Sponsored Place at OpenCon 2017](https://blog.research-plus.library.manchester.ac.uk/2017/09/08/sponsored-place-at-opencon-2017/) which was **[successful](https://blog.research-plus.library.manchester.ac.uk/2017/09/28/open-data-champion-secures-our-sponsored-opencon17-place/)**! 🎉 
+
+There were thousands of applicants for only a couple hundred places at OpenCon 2017, and my main application (which you can read [here](OpenCon2017.md)) was **waitlisted**. The University of Manchester Library however, held a competition for a sponsored place at OpenCon. I applied with a remixed version of my main application, which you can read below.
 
 
 

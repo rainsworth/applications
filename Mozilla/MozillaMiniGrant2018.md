@@ -1,4 +1,4 @@
-# Mozilla Mini Grant Application
+# Mozilla Mini Grant 2018 Application
 
 My application for the [Second Round of Mozilla Mini-Grants](https://science.mozilla.org/blog/2018-mini-grant-rfp).
 

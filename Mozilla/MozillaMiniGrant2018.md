@@ -1,6 +1,6 @@
 # Mozilla Mini Grant 2018 Application
 
-My application for the [Second Round of Mozilla Mini-Grants](https://science.mozilla.org/blog/2018-mini-grant-rfp).
+My (unsuccessful) application for the [Second Round of Mozilla Mini-Grants](https://science.mozilla.org/blog/2018-mini-grant-rfp).
 
 ## Project Summary
 
